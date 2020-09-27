@@ -1,0 +1,11 @@
+<svg id="menu" xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <path id="Path_182" data-name="Path 182" d="M3.811,40a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,3.811,40Z" transform="translate(0 -21.622)" fill="#fff"/>
+  <path id="Path_183" data-name="Path 183" d="M23.811,40a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,23.811,40Z" transform="translate(-10.811 -21.622)" fill="#fff"/>
+  <path id="Path_184" data-name="Path 184" d="M43.811,40a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,43.811,40Z" transform="translate(-21.622 -21.622)" fill="#fff"/>
+  <path id="Path_185" data-name="Path 185" d="M3.811,20a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,3.811,20Z" transform="translate(0 -10.811)" fill="#fff"/>
+  <path id="Path_186" data-name="Path 186" d="M23.811,20a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,23.811,20Z" transform="translate(-10.811 -10.811)" fill="#fff"/>
+  <path id="Path_187" data-name="Path 187" d="M43.811,20a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,43.811,20Z" transform="translate(-21.622 -10.811)" fill="#fff"/>
+  <path id="Path_188" data-name="Path 188" d="M3.811,0A3.811,3.811,0,1,0,7.622,3.811,3.815,3.815,0,0,0,3.811,0Z" fill="#fff"/>
+  <path id="Path_189" data-name="Path 189" d="M23.811,0a3.811,3.811,0,1,0,3.811,3.811A3.815,3.815,0,0,0,23.811,0Z" transform="translate(-10.811)" fill="#fff"/>
+  <path id="Path_190" data-name="Path 190" d="M43.811,7.622A3.811,3.811,0,1,0,40,3.811,3.815,3.815,0,0,0,43.811,7.622Z" transform="translate(-21.622)" fill="#fff"/>
+</svg>
